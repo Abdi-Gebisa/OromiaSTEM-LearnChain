@@ -1,0 +1,5 @@
+Project: OromiaSTEM LearnChain
+Version: Hackathon source submission candidate 1.0
+Primary focus: Accessible interactive science education
+Blockchain network target: Solana Devnet (prototype source only; not deployed)
+Prepared: 2026-11-22
