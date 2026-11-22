@@ -1,0 +1,19 @@
+[package]
+name = "learning_achievement"
+version = "1.0.0"
+description = "Privacy-conscious learning achievement registry for OromiaSTEM"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "learning_achievement"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.30.1"
